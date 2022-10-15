@@ -8,5 +8,5 @@ edition = "2021"
 [dependencies]
 
 [lib]
-name = "book_store"
-path = "src/bin/book_store/mod.rs"
+name = "projects"
+path = "src/bin/mod.rs"

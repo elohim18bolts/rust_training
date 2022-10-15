@@ -1,5 +1,5 @@
-use book_store::book::Book;
-use book_store::menu::MenuOptions;
+use projects::book_store::book::Book;
+use projects::book_store::menu::MenuOptions;
 use std::fs::{File, OpenOptions};
 use std::io::{Read, Write};
 
