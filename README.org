@@ -31,7 +31,7 @@ Quit
 ** PNG File Structure
 The intention of this project is to check  weather is posible to inject data into a png image wihout corrupting the file.
 
-*Note*: /The png image used as test in this project is from [[https://en.wikipedia.org/wiki/Portable_Network_Graphics]wikipedia]/
+*Note*: /The png image used as test in this project is from [[https://en.wikipedia.org/wiki/Portable_Network_Graphics][wikipedia]]/
 *** Functions
 **** ~is_png~
 #+begin_src rust
