@@ -22,3 +22,9 @@ Exists the program
 ** Book_store.rs
 Interactive console app, for book keeping records.
 It asks for a book title, description and price, then save the record to a file.
+#+begin_src bash
+Add a record
+List currents books in cache
+Save books to file
+Quit
+#+end_src
