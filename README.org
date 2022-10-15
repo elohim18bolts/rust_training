@@ -6,4 +6,19 @@
 * Summary
 This contain small rust based projects. The purpose of this repo is to learn some rust and have some fun at the same time. Feel free to comment and give some ideas.
 * Projects
-None so far.
+** Login.rs
+Console application that gives a menu to user. The user must select the following options:
+#+begin_src bash
+SignIn
+LogIn
+Quit
+#+end_src
+*** SignUn
+A user record is created and with a username and password.
+*** LogIn
+Asks for username and if it exists, then asks for password. This returns a ~User struct~.
+*** Quit
+Exists the program
+** Book_store.rs
+Interactive console app, for book keeping records.
+It asks for a book title, description and price, then save the record to a file.
